@@ -20,7 +20,8 @@
     "joi": "^17.8.3",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.9.2",
-    "stripe": "^11.11.0"
+    "stripe": "^11.11.0",    
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
